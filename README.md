@@ -1,5 +1,5 @@
 # prok-classify
-The directory contains the workflow metashot/prok-classify, a software for assigning objective taxonomic classifications to bacterial and archaeal genomes. The workflow is updated to use [GTDB-Tk](https://github.com/Ecogenomics/GTDBTk) 2.4.0 (latest version) and the last release of the Genome Database Taxonomy GTDB (Release 220). 
+The directory contains the workflow metashot/prok-classify, a software for assigning objective taxonomic classifications to bacterial and archaeal genomes. The workflow is updated to use [GTDB-Tk](https://github.com/Ecogenomics/GTDBTk) 2.4.0 (latest version as of 2024) and the last release of the Genome Database Taxonomy GTDB (Release 220). 
 
 - [MetaShot Home](https://metashot.github.io/)
 
