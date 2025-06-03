@@ -17,7 +17,7 @@ process genome_filter {
     """
     mkdir genomes_dir
     mv $genomes genomes_dir
-    genome_filter.py \
+    python3 genome_filter.py \
         genomes_dir \
         ./ \
         $gtdb_bac_summary \
